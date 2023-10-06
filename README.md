@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lahcen Aharouane</h1>
 <h4 align="center">I'm a Front End Web Developer</h3>
 
-- 🔍 I’m a self-taught developer highly interested in **C**
+- 🔍 I’m a self-taught developer highly interested in **Web Development**
 
-- 🌱 I have been recently learning **ReactJS and C++**
+- 🌱 I have been recently learning **NextJS and C++**
 
 - 📫 You can contact me via **lahcen.aharouane@gmail.com**
 
